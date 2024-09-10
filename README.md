@@ -1,7 +1,7 @@
 
 <h2>hiii</h2>
 <h1 align="center">Hi 👋, I'm Barsan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I'm a passionate **developer and graphic designer** with over a year of experience, currently working in a startup environment. I love building web projects using **React, Remix, and Tailwind CSS**. I enjoy solving complex problems, such as mastering the Rubik's Cube blindfolded! I'm also exploring open-source contributions and constantly learning new frameworks like **Astro**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barsan-t&label=Profile%20views&color=0e75b6&style=flat" alt="barsan-t" /> </p>
 

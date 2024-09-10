@@ -1,5 +1,4 @@
 
-<h2>hiii</h2>
 <h1 align="center">Hi 👋, I'm Barsan</h1>
 <h3 align="center">I'm a passionate **developer and graphic designer** with over a year of experience, currently working in a startup environment. I love building web projects using **React, Remix, and Tailwind CSS**. I enjoy solving complex problems, such as mastering the Rubik's Cube blindfolded! I'm also exploring open-source contributions and constantly learning new frameworks like **Astro**.</h3>
 

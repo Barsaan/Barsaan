@@ -71,11 +71,16 @@
   <br>
   <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barsaan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barsaan's Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=vue-dark&hide_border=true" alt="Barsaan's Streak" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Barsaan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barsaan's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=vue-dark&hide_border=true" alt="Barsaan's Streak" />
+    </td>
+  </tr>
+</table>
 
-</p>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barsan</h1>
++<h1 align="center">Hi 👋, I'm Barsan</h1>
 <h3 align="center">
   👨‍💻 I'm a passionate <strong>developer and graphic designer</strong> with over a year of experience,<br>  currently working in a startup environment.
   I love building web projects using <strong>React, Remix, and Tailwind CSS</strong>.<br>

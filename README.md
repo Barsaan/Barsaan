@@ -70,10 +70,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=barsan-t&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="barsan-t's Stats" />
+      
+![](https://github-readme-stats.vercel.app/api?username=Barsaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=barsan-t&theme=vue-dark&hide_border=true" alt="barsan-t's Streak" />
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=dark&hide_border=false)<br/>
     </td>
   </tr>
 </table>

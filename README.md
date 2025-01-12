@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barsan</h1>
 <h3 align="center">
-  👨‍💻 I'm a passionate <strong>developer and graphic designer</strong> with over a year of experience,<br>  currently working in a startup environment.
-  I love building web projects using <strong>React, Remix, and Tailwind CSS</strong>.<br>
-  I'm also exploring open-source contributions and constantly learning new frameworks like <strong>Astro</strong> 🚀
+  A front-end developer skilled in TypeScript, React, and Node.js, focused on crafting efficient and user-friendly web applications. Passionate about UI/UX design and leveraging AI tools to enhance creativity and productivity. Always exploring new technologies to bring innovative ideas to life.
 </h3>
 <br>
 

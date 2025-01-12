@@ -67,17 +67,17 @@
 
 ###
 </p>
-<table>
-  <tr>
-    <td>
+
+  
+
       
 ![](https://github-readme-stats.vercel.app/api?username=Barsaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    </td>
-    <td>
-     ![](https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=dark&hide_border=false)<br/>
-    </td>
-  </tr>
-</table>
+   
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=dark&hide_border=false)<br/>
+   
+ 
+
 
 
 

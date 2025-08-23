@@ -38,8 +38,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barsaan&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Barsaan&show_icons=true&theme=default&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barsaan&theme=default&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barsaan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

@@ -12,9 +12,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 <h3 align="center">
-  A front-end developer skilled in TypeScript, React, and Node.js, focused on crafting efficient and user-friendly web applications.  
-  Passionate about UI/UX design and leveraging AI tools to enhance creativity and productivity.  
-  Always exploring new technologies to bring innovative ideas to life.
+ I’m Barsan Thaikkandiyil, a front-end developer with expertise in TypeScript, React, and Node.js, focused on building fast, scalable, and user-friendly web applications. With a strong passion for UI/UX design, I love transforming ideas into intuitive digital experiences that balance functionality and aesthetics.
+
+I’m also keen on leveraging AI tools to boost creativity and productivity, experimenting with ways to integrate them into the development process. Constantly exploring new technologies, I enjoy pushing boundaries, learning continuously, and turning innovative concepts into real-world solutions.
 </h3>
 
 ---

@@ -46,11 +46,5 @@ I’m also keen on leveraging AI tools to boost creativity and productivity, exp
 ---
 
 
-### 🚀 Featured Projects
-- [**Project 1**](#) – Short one-liner about what it does.  
-- [**Project 2**](#) – Another highlight.  
-- [**Project 3**](#) – Maybe a UI/UX focused one.  
-
----
 
 <p align="center">✨ Always building, always learning ✨</p>

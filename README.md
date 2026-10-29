@@ -1,7 +1,7 @@
 <!-- Typing animation intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Barsan;Front-end+Developer;TypeScript+%7C+React+%7C+Node.js;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Loves+AI+Tools+%E2%9C%A8" alt="Typing SVG" /?
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Barsan;Front-end+Developer;TypeScript+%7C+React+%7C+Node.js;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Loves+AI+Tools+%E2%9C%A8" alt="Typing SVG" /?>
   </a>
 </p>
 
